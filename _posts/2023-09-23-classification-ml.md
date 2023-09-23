@@ -9,8 +9,8 @@ image: /assets/img/feature/mln.png
 
 ## Packages
 We first import necessary packages:
-- [numpy](http://www.numpy.org) is the main package for scientific computing with Python.
-- [matplotlib](http://matplotlib.org) is a library to plot graphs in Python.
+- [numpy](https://www.numpy.org) is the main package for scientific computing with Python.
+- [matplotlib](https://matplotlib.org) is a library to plot graphs in Python.
 - [h5py](https://www.h5py.org/) is a Pythonic interface to the HDF5 binary data format.
 
 ```python
