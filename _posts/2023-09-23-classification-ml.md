@@ -486,4 +486,4 @@ def update_parameters(params, grads, learning_rate):
 
     return parameters
 ```
-We are done! Let's see an application in the next post.
+We are done! Let's see an application in the followed-up post.
