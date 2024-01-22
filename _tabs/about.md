@@ -3,7 +3,6 @@
 icon: fas fa-info-circle
 order: 4
 ---
-
 My name is Xin An. I am currently an undergraduate mathematics student at University College London. I am interested in quantitative finance, blockchain, and machine learning in financial contexts.
 
 Leisure
