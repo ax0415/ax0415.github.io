@@ -20,10 +20,10 @@ timezone:
 
 title: Xin An # the main title
 
-tagline: I don't care, pal. # it will display as the sub-title
+tagline: Welcome aboard, pal. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  My name is Xin An. I am currently an undergraduate mathematics student at University College London. I am interested in quantitative finance, blockchain, and machine learning in financial contexts.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://ax0415.github.io"
